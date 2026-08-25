@@ -20,9 +20,6 @@
   <a href="https://vihangaanuththara.me" target="_blank">
   <img src="https://img.shields.io/badge/🚀_My-Portfolio-blue?style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="https://vihangaanuththara.me/vazero" target="_blank">
-  <img src="https://img.shields.io/badge/💼_Hire_Me-Freelance_Services-green?style=for-the-badge" alt="Freelance Services"/>
-  </a>
 </div>
 
 <br>
